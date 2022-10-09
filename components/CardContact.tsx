@@ -5,7 +5,19 @@ import CustomCursor from "../components/CustomCursor";
 import { Navbar } from "../components/navbar";
 import { GrDocumentDownload } from "react-icons/gr";
 
-const CardContact: NextPage = ({ name, link, image, download }) => {
+interface ICardContact {
+  name: string;
+  link: string;
+  image: string;
+  download?: boolean;
+}
+
+const CardContact: NextPage<ICardContact> = ({
+  name,
+  link,
+  image,
+  download,
+}) => {
   return (
     <div className={`flex space-x-2 justify-center hover:cursor-none`}>
       <a

@@ -6,9 +6,16 @@ const Experience: NextPage = () => {
   return (
     <div className="max-w-screen-md mx-auto">
       <div id="experience" className="prose">
-        <h2 className="section-headline">Experience</h2>
         <div>
-          <h3>Encora Brasil</h3>
+          <h3
+            className="
+            text-2xl
+            lg:text-xl
+            font-bold
+            text-red-600"
+          >
+            Encora Brasil
+          </h3>
           <section className="mb-6">
             <div className="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
               Apr.&nbsp;2022 - Present
@@ -55,7 +62,15 @@ const Experience: NextPage = () => {
           </section>
         </div>
         <div>
-          <h3>Wise</h3>
+          <h3
+            className="
+            text-2xl
+            lg:text-xl
+            font-bold
+            text-red-600"
+          >
+            Wise
+          </h3>
           <section className="mb-6">
             <div className="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
               Apr.&nbsp;2020 - Mar.&nbsp;2022
@@ -107,7 +122,15 @@ const Experience: NextPage = () => {
           </section>
         </div>
         <div>
-          <h3>Phygital</h3>
+          <h3
+            className="
+            text-2xl
+            lg:text-xl
+            font-bold
+            text-red-600"
+          >
+            Phygital
+          </h3>
           <section className="mb-6">
             <div className="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
               Feb.&nbsp;2020 - Mar.&nbsp;2020
@@ -146,7 +169,15 @@ const Experience: NextPage = () => {
           </section>
         </div>
         <div>
-          <h3>CNH Industrial Capital</h3>
+          <h3
+            className="
+            text-2xl
+            lg:text-xl
+            font-bold
+            text-red-600"
+          >
+            CNH Industrial Capital
+          </h3>
           <section className="mb-6">
             <div className="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
               Feb.&nbsp;2018 - Jun.&nbsp;2019

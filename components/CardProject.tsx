@@ -2,7 +2,21 @@ import { useEffect, useState } from "react";
 import { useTheme } from "next-themes";
 import Image from "next/image";
 
-export default function CardProject({ name, description, tags, image, link }) {
+interface ICardContact {
+  name: string;
+  description: string;
+  tags: string[];
+  image: string;
+  link: string;
+}
+
+export default function CardProject({
+  name,
+  description,
+  tags,
+  image,
+  link,
+}: ICardContact) {
   return (
     <a
       href={link}
