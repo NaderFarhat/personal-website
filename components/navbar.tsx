@@ -12,13 +12,8 @@ export const Navbar = () => {
   return (
     <>
       <nav className="flex items-center flex-wrap bg-transparent p-3 max-w-screen-md mx-auto">
-        {/* <Link href="/">
-          <a className="inline-flex items-center p-2 mr-4 ">
-            <h1 className="text-xl">Hello world</h1>
-          </a>
-        </Link>
         <button
-          className=" inline-flex p-3 hover:bg-red-600 rounded lg:hidden text-white ml-auto hover:text-white outline-none"
+          className=" inline-flex p-3  rounded lg:hidden text-red-600 ml-auto hover:text-red-600 outline-none"
           onClick={handleClick}
         >
           <svg
@@ -35,7 +30,7 @@ export const Navbar = () => {
               d="M4 6h16M4 12h16M4 18h16"
             />
           </svg>
-        </button> */}
+        </button>
         {/*Note that in this div we will use a ternary operator to decide whether or not to display the content of the div  */}
         <div
           className={`${
