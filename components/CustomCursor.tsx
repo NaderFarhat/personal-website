@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 
 export default function CustomCursor() {
-  const cursorRef = useRef(null);
+  const cursorRef = useRef<any>(null);
   useEffect(() => {
     if (cursorRef.current == null || cursorRef == null) return;
     document.addEventListener("mousemove", (e) => {
