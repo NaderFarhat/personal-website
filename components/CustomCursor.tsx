@@ -21,5 +21,5 @@ export default function CustomCursor() {
       }, 500);
     });
   }, []);
-  return <div className="cursor" ref={cursorRef}></div>;
+  return <div className="cursor circle" ref={cursorRef}></div>;
 }
