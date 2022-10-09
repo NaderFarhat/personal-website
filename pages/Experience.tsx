@@ -191,7 +191,7 @@ const Experience: NextPage = () => {
               Task:
             </div>
             <div className="lg:inline-block lg:w-8/12 w-full">
-              Monitoring the documentation and flow of Risk's activities
+              Monitoring the documentation and flow of Risks activities
               Management team - LATAM; Monitoring of the SAS tool, for its
               application in processes, projections of controls and indicators
               for measuring the performance of the credit portfolio; Monthly
