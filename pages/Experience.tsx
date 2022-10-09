@@ -33,12 +33,24 @@ const Experience: NextPage = () => {
               Tools:
             </div>
             <div className="lg:inline-block lg:w-8/12 w-full">
-              <span className="rounded-xl bg-gray-300 px-3">React</span>
-              <span className="rounded-xl bg-gray-300 px-3">Mobx</span>
-              <span className="rounded-xl bg-gray-300 px-3">Typescript</span>
-              <span className="rounded-xl bg-gray-300 px-3">Mui</span>
-              <span className="rounded-xl bg-gray-300 px-3">Git</span>
-              <span className="rounded-xl bg-gray-300 px-3">Bitbucket</span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                React
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Mobx
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Typescript
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Mui
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Git
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Bitbucket
+              </span>
             </div>
           </section>
         </div>
@@ -67,18 +79,30 @@ const Experience: NextPage = () => {
               Tools:
             </div>
             <div className="lg:inline-block lg:w-8/12 w-full">
-              <span className="rounded-xl bg-gray-300 px-3">React</span>
-              <span className="rounded-xl bg-gray-300 px-3">Javascript</span>
-              <span className="rounded-xl bg-gray-300 px-3">
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                React
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Javascript
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
                 Graphql(Apollo)
               </span>
-              <span className="rounded-xl bg-gray-300 px-3">
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
                 StyledComponents
               </span>
-              <span className="rounded-xl bg-gray-300 px-3">UseContext</span>
-              <span className="rounded-xl bg-gray-300 px-3">AntDesign</span>
-              <span className="rounded-xl bg-gray-300 px-3">Git</span>
-              <span className="rounded-xl bg-gray-300 px-3">Gitlab</span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                UseContext
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                AntDesign
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Git
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Gitlab
+              </span>
             </div>
           </section>
         </div>
@@ -106,10 +130,18 @@ const Experience: NextPage = () => {
               Tools:
             </div>
             <div className="lg:inline-block lg:w-8/12 w-full">
-              <span className="rounded-xl bg-gray-300 px-3">React</span>
-              <span className="rounded-xl bg-gray-300 px-3">Javascript</span>
-              <span className="rounded-xl bg-gray-300 px-3">Git</span>
-              <span className="rounded-xl bg-gray-300 px-3">Github</span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                React
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Javascript
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Git
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Github
+              </span>
             </div>
           </section>
         </div>
@@ -142,8 +174,12 @@ const Experience: NextPage = () => {
               Tools:
             </div>
             <div className="lg:inline-block lg:w-8/12 w-full">
-              <span className="rounded-xl bg-gray-300 px-3">SAS</span>
-              <span className="rounded-xl bg-gray-300 px-3">Excel</span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                SAS
+              </span>
+              <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
+                Excel
+              </span>
             </div>
           </section>
         </div>
