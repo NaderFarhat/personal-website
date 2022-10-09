@@ -7,7 +7,6 @@ const Projects: NextPage = () => {
   return (
     <div className="max-w-screen-md mx-auto">
       <CardProject />
-      <CardProject />
     </div>
   );
 };

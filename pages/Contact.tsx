@@ -22,6 +22,12 @@ const Contact: NextPage = () => {
           link="mailto:nader2308@gmail.com"
           image="/static/gmail.png"
         />
+        <CardContact
+          name="download cv"
+          link="/static/resume.pdf"
+          image="/static/gmail.png"
+          download
+        />
       </header>
     </div>
   );
