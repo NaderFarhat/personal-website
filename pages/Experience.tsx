@@ -24,7 +24,7 @@ const Experience: NextPage = () => {
               Software Developer
             </div>
           </section>
-          <section className="mb-6">
+          {/* <section className="mb-6">
             <div className="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
               Task:
             </div>
@@ -34,7 +34,7 @@ const Experience: NextPage = () => {
               enim ad minim veniam, quis nostrud exercitation ullamco laboris
               nisi ut aliquip ex ea commodo consequat.
             </div>
-          </section>
+          </section> */}
           <section className="mb-6">
             <div className="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
               Tools:
