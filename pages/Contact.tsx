@@ -23,7 +23,7 @@ const Contact: NextPage = () => {
           image="/static/gmail.png"
         />
         <CardContact
-          name="download cv"
+          name="download"
           link="/static/resume.pdf"
           image="/static/gmail.png"
           download
