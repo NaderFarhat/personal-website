@@ -24,7 +24,7 @@ export default function CardProject({
         target="_blank"
         rel="noopener noreferrer"
         type="button"
-        className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xxl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 mb-4"
+        className="flex flex-col items-center bg-white rounded-lg border shadow-md md:flex-row md:max-w-xxl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 mb-4 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110"
       >
         <Image
           className="object-cover w-full h-96 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
